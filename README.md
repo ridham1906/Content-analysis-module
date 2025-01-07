@@ -30,3 +30,7 @@ Langflow is an open-source tool for designing workflows for Large Language Model
 
 AstraDB by DataStax
 AstraDB is a cloud-native database built on Apache Cassandra. It offers unmatched scalability, reliability, and performance, making it the perfect choice for storing and querying large datasets.
+
+<br>
+<hr>
+<b> simply add import json this json file to your langflow tool and add your openai api and datastax astra db api </b> 
